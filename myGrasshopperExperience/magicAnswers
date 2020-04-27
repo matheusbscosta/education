@@ -1,0 +1,7 @@
+var answer = pickRandom([
+  'yes',
+  'no',
+  'certainly',
+  ___
+]);
+print(answer);
