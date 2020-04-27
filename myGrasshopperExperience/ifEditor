@@ -1,0 +1,14 @@
+var color = pickRandom([
+  blue,
+  green,
+  green,
+  green,
+  ___,
+  green,
+  ___
+]);
+print(color);
+if (color === blue) {
+  drawBox(blue);
+  ___
+}
