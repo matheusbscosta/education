@@ -1,0 +1,10 @@
+ar ingredients = [
+  'sugar',
+  'eggs',
+  'flour',
+  ___
+];
+cook(ingredients);
+[
+  ___
+];
