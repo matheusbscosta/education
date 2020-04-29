@@ -1,1 +1,7 @@
-
+for (var element of otherBackpack.equipment) {
+  if (element === 'rope') {
+    print('the rope has been found');
+  } else {
+    print('the rope has not been found');
+  }
+}
