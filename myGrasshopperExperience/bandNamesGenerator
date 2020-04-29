@@ -1,0 +1,16 @@
+for (var adj of [
+  'Raging',
+  'happy',
+  'squids',
+  ___
+]) {
+  ___
+  for (var noun of [
+    'Pharmacists',
+    'hungry',
+    'twins',
+    ___
+  ]) {
+    print('The ' + adj + ' ' + noun);
+  }
+}
