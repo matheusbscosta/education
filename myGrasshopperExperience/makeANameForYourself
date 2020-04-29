@@ -1,0 +1,7 @@
+var name = {
+  first: 'Martin ',
+  middle: 'Luther ',
+  last: 'king',
+  ___edit: ___
+};
+print(name.first + name.middle + name.last);
